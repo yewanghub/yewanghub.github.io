@@ -1,20 +1,79 @@
 <!DOCTYPE html>
-<html lang="zh-CN">
+<html lang="en">
 <head>
   <meta charset="UTF-8">
+  <title>My Personal Webpage</title>
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Ye Wang</title>
-  <link rel="stylesheet" href="styles.css">
+  <style>
+    /* 全局样式 */
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+      background-color: #f4f4f4;
+      color: #333;
+    }
+    /* 页眉 */
+    header {
+      background-color: #333;
+      color: #fff;
+      padding: 20px;
+      text-align: center;
+    }
+    /* 主内容区域 */
+    .container {
+      width: 80%;
+      max-width: 960px;
+      margin: 20px auto;
+      background-color: #fff;
+      padding: 20px;
+      box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    }
+    /* 各个 section */
+    section {
+      margin-bottom: 30px;
+    }
+    section h2 {
+      border-bottom: 2px solid #333;
+      padding-bottom: 10px;
+      margin-bottom: 20px;
+    }
+    p {
+      line-height: 1.6;
+    }
+  </style>
 </head>
 <body>
+  <!-- 页眉 -->
   <header>
-    <h1>Ye Wang</h1>
+    <h1>Welcome to My Personal Webpage</h1>
   </header>
-  <section>
-    <p>这里是我的个人介绍和项目展示。</p>
-  </section>
-  <footer>
-    <p>Copyright © 2025</p>
-  </footer>
+
+  <!-- 主内容区域 -->
+  <div class="container">
+    <!-- 自我介绍 -->
+    <section id="about">
+      <h2>About Me</h2>
+      <p>
+        Hi there! I am Ye Wang, a MRes student at AIAI Lab in Informatics School of University of Edinburgh, supervised by Dr. Fengxiang He.
+      </p>
+    </section>
+
+    <!-- Research Interest -->
+    <section id="research-interest">
+      <h2>Research Interest</h2>
+      <p>
+        My research interests include the fairness in generative ai and the dectralized learning.
+      </p>
+    </section>
+
+    <!-- News -->
+    <section id="news">
+      <h2>News</h2>
+      <p>
+        Stay tuned for the latest updates and news about my projects, research breakthroughs, and upcoming events. Here, I will regularly share insights, project milestones, and other exciting developments in my work.
+      </p>
+    </section>
+  </div>
 </body>
 </html>
