@@ -17,8 +17,8 @@ Hello! I'm Ye Wang, a Master by Research student at the School of Informatics, U
 
 ## 📰 News
  
-- 🧪 **2025-06**: Successfully held the ECFI-GAIL International Workshop on Synthetic Data!  
-- 🧠 **2025-06**: Successfully held the Edinburgh Workshop on Neural-Symbolic AI! 
+- 🎉 **2025-06**: Successfully held the ECFI-GAIL International Workshop on Synthetic Data!  
+- 🚀 **2025-06**: Successfully held the Edinburgh Workshop on Neural-Symbolic AI! 
 
 ---
 
