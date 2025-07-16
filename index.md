@@ -12,7 +12,7 @@ permalink: /
 ## 👋 Welcome
 
 <p style="font-size: 1rem;">
-Hello! I'm Ye Wang, a Master by Research student in the AIAI Lab, School of Informatics, and a research affiliate at the Edinburgh Center for Financial Innovation, University of Edinburgh. My research interests lie in Generative AI, Decentralised Learning, Game Theory, and Finance. I strive to explore the full journey — from the birth of ideas to their real world impact.
+Hello! I'm Ye Wang, a Master by Research student，supervised by Dr. Fengxiang He and co-supervised by Dr. Gbenga Ibikunle in the AIAI Lab, School of Informatics, and a research affiliate at the Edinburgh Center for Financial Innovation, University of Edinburgh. My research interests lie in Generative AI, Decentralised Learning, Game Theory, and Finance. I strive to explore the full journey — from the birth of ideas to their real world impact.
 </p>
 ---
 
@@ -45,4 +45,4 @@ Coming soon!
 
 - **Model Plane Teacher & Class Advisor (Volunteer)** at *China Education Support Programme – EGO (Hainan, China)*  
   *Aug 2021*  
-  Taught model aircraft and mentored students in rural schools as part of an educational outreach program.
+  Taught model Plane and mentored students in rural schools as part of an educational outreach program.
