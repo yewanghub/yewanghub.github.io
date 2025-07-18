@@ -11,7 +11,7 @@ permalink: /
 ## 👋 Welcome
 
 <p style="font-size: 1rem;">
-Hello! I'm Ye Wang, a Master by Research student at the School of Informatics, University of Edinburgh, supervised by Dr. Fengxiang He and co-supervised by Dr. Gbenga Ibikunle. I am also a research student at the Edinburgh Center for Financial Innovation. My research interests lie in Generative AI, Decentralised Learning, Game Theory, and Finance. I strive to explore the full journey — from the birth of ideas to their real world impact.
+Hello! I'm Ye Wang, a Master by Research student at the School of Informatics, University of Edinburgh anda  research student at the Edinburgh Center for Financial Innovation. My research interests lie in Generative AI, Decentralised Learning, Game Theory, and Finance. I strive to explore the full journey — from the birth of ideas to their real world impact.
 </p>
 ---
 
